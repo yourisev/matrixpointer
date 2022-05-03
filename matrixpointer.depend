@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542280727 source:c:\users\youri sevga\documents\ctutorial\matrixpointer\main.c
+	<stdio.h>
+	<stdlib.h>
+
